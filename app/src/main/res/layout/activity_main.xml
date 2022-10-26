@@ -34,7 +34,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <TextView
-        android:background="@color/purple_200"
+        android:background="@color/colorPrimary"
         android:id="@+id/textView2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
